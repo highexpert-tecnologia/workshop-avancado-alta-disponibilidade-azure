@@ -10,7 +10,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 ## Lab 1- Deploy Landing Zone Virtual machines
 
-   ![Screenshot of the inventory data](/Images/LANDING-ZONE.png)
+   ![Screenshot of Landing Zone](/Images/LANDING-ZONE.png)
 
 ## Lab 1.1 - Create Virtual Network Application (10 minutes)
 
@@ -539,9 +539,9 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
     | Setting | Value |
     | --- | --- |
-    | Name | **LBR-HighExpert-Store1** |
+    | Name | **LBR-HighExpert-Store** |
     | IP Version | **IPv4** |
-    | Frontend IP address | **ALB-HighExpert-Store1** | 
+    | Frontend IP address | **ALB-HighExpert-Store** | 
     | Backend pool | **BP-HighExpert-Store1** |
     | Protocol | **TCP** |
     | Port | **80** |
@@ -566,12 +566,11 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 1. Wait for the load balancing rule to be created, click **Overview**, and note the value of the **IP address** of **Frontend IP configuration**.
 
-1. In the **VMWEB01** Virtual machine, start Edge Browser and navigate on **http://10.2.2.10**.
+1. Within the computer, start Browser and navigate on **Public IP Address** of the **ALB-HighExpert-Store**.
 
 1. On the **VMWEB01** Virtual machine, start **Internet Information Services (IIS) Manager**, open **Sites** and select **HighExpertStore** in **Manage Website**, select **Stop** Web site.
 
-1. In the **VMSQL01** Virtual machine, start Edge Browser and navigate on **http://10.2.2.10** and validate the operation and redirection of the Azure Load balancer in action for the **VMWEB02** web server.
-
+1. Within the computer, start Browser and navigate on **Public IP Address** of the **ALB-HighExpert-Store** and validate the operation and redirection of the Azure Load balancer in action for the **VMWEB02** web server.
 
 ## Lab 2.3 - Deploy Azure Application Gateway (30 minutes)
 
