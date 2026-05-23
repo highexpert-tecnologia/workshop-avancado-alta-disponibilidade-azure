@@ -577,7 +577,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 1. Within the computer, start Browser and navigate on **Public IP Address** of the **ALB-HighExpert-Store** and validate the operation and redirection of the Azure Load balancer in action for the **VMWEB02** web server.
 
-## Lab 2.3 - Deploy Azure Application Gateway (30 minutes)
+## Lab 2.3 - Deploy Azure Application Gateway (15 minutes)
 
    ![Screenshot of Landing Zone](/APP-GW-HA.png)
 
