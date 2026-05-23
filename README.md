@@ -12,7 +12,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
    ![Screenshot of the inventory data](/Images/LANDING-ZONE.png)
 
-## Lab 2.1 - Create Virtual Network Application (10 minutes)
+## Lab 1.1 - Create Virtual Network Application (10 minutes)
 
 1. In the Azure portal, search for and select **Virtual networks**, and, on the **Virtual networks** blade, click **+ Add**.
 
@@ -70,7 +70,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 
 ## Deploy Web server High Availability (HA) Virtual machines
-## Lab 1.1 - Deploy Virtual machines (30 minutes)
+## Lab 1.2 - Deploy Virtual machines (30 minutes)
 ### Create a Web server VM
 
 1. In the Azure portal, search for and select **Virtual machines** and, on the **Virtual machines** blade, click **+ Add**.
