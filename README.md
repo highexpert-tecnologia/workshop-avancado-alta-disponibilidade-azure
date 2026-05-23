@@ -579,6 +579,8 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 ## Lab 2.3 - Deploy Azure Application Gateway (30 minutes)
 
+   ![Screenshot of Landing Zone](/APP-GW-HA.png)
+
 1. In the Azure portal, search and select **Application gateways** and, on the **Application gateways** blade, click **+ Create**.
 
 1. On the **Basics** tab, enter these values for the following application gateway settings:
