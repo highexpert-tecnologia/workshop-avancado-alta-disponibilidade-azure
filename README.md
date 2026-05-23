@@ -10,7 +10,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 ## Lab 1- Deploy Landing Zone Virtual machines
 
-   ![Screenshot of Landing Zone](/Images/LANDING-ZONE.png)
+   ![Screenshot of Landing Zone](/LANDING-ZONE.png)
 
 ## Lab 1.1 - Create Virtual Network Application (10 minutes)
 
