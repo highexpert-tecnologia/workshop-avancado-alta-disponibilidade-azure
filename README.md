@@ -654,9 +654,9 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 1. Refresh the browser multiple times and you should see connections to both **VMWEB01** and **VMWEB02**.
 
-## Lab 3 - Azure Virtual Machine Scale Sets (60 minutes)
+## Lab 3 - Azure Virtual Machine Scale Sets (30 minutes)
 
-   ![Screenshot of the inventory data](/Images/vmss-azure.png)
+   ![Screenshot of the inventory data](/VMSS-HA.png)
 
 1. In the Azure portal, search for and select **Virtual machines** and, on the **Virtual machines** blade.
 
