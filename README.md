@@ -215,7 +215,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 1. On the **Review + Create** blade, click **Create**.
 
-1. Connect Virtual machine, in the session Azure Bastion on **VMWEB02**.
+1. Connect Virtual machine, in the session RDP on **VMWEB01** and connect **VMWEB002**.
 
 1. Install the Web Server, configure Application code and publish Web site,  in the virtual machine open **Windows PowerShell ISE**. You can copy and paste this command and **Execute**.
 
