@@ -35,6 +35,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
     | --- | --- |
     | Name | **snet-backend** |
     | Address range (CIDR block) | **10.2.3.0/24** |
+    | Private subnet | **None** |
     | Network security group | **None** |
     | Route table | **None** |
     | | |
@@ -43,6 +44,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
     | --- | --- |
     | Name | **snet-appgw** |
     | Address range (CIDR block) | **10.2.10.0/24** |
+    | Private subnet | **None** |
     | Network security group | **None** |
     | Route table | **None** |
     | | |
@@ -51,6 +53,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
     | --- | --- |
     | Name | **snet-vmss** |
     | Address range (CIDR block) | **10.2.100.0/22** |
+    | Private subnet | **None** |
     | Network security group | **None** |
     | Route table | **None** |
     | | |
@@ -63,6 +66,8 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
     | **company** | **highexpert** |
       
 1. Click **Review and Create**. Let validation occur, and hit **Create** again to submit your deployment.
+
+2. IMPORTANT: On **Virtual Networks**, uncheck **Private Subnets** all Subnets in the Subnets.
 
 1. Once the deployment completes browse for **Virtual Networks** in the portal search bar. Within **Virtual networks** blade, click on the newly created virtual network.
 
