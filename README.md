@@ -662,10 +662,6 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 1. On the **Virtual machines** blade, find **VMWEB01** and **VMWEB02** and delete two VMS.
 
-1. In the Azure portal, search for and select **Resource groups** and, on the **Resource groups** blade. 
-
-1. On the **Resource groups** blade, find **RG-HighExpert-Hub** and delete Resource Group and all resource for this Resoure group.
-
 1. In the Azure portal, search for **Virtual machine scale (VMSS)**. Select **Create** on the **Virtual Machine Scale Set (VMSS)** page, which will open the **+ Create** page.
 
 1. In the **Basics** tab, under **Project details**, make sure the correct subscription is selected and then choose to **Create new** resource group. Type **RG-HighExpert-Store-VMSS** for the name and then select **OK**.
