@@ -152,7 +152,7 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 1. If executed successfully it will display the **High Expert Store application** and it is expected to encounter an error when connecting to the database that we will correct in the next activities.
 
-   ![Screenshot of the application](/Images/IMG02.png)
+   ![Screenshot of the application](/IMG02.png)
 
 ### Create a new Web server VM
 
@@ -364,11 +364,11 @@ Para realizar as atividades dos Laboratórios Hands-on e projectos Mão na massa
 
 1. The successful execution of the SQL Script will be displayed as shown in the following image.
 
-   ![Screenshot of the application](/Images/IMG03.png)
+   ![Screenshot of the application](/IMG03.png)
 
 1. Within the computer, start Browser and navigate on **Public IP Address** of the **VMWEB01**.
 
-   ![Screenshot of the application](/Images/IMG04.png)
+   ![Screenshot of the application](/IMG04.png)
 
 ## Lab 2.1 - Configure Network Security groups (15 minutes)
 
